@@ -1,4 +1,4 @@
 # BMS5008
-'SVM classification.ipynb' contains the code used for the SVM classification of limb-onset ALS subjects using Jupyter Notebook.
+'RSN features SVM.ipynb' is an interactive Jupyter notebook containing the code used to generate results for the SVM classifier trained using anatomical regions of RSNs (RSN features) as described in results section 5.1, whilst 'Between-group SVM.ipynb' contains the code for the SVM classification using activity of significantly different regions from between-group analysis.
 
-The notebook contains comments (indicated by a # before each comment) to describe the processes occuring at each stage.
+Throughout the notebooks, lines beginning with a # are non-coding, and are used to describe the processes occuring at each stage.
